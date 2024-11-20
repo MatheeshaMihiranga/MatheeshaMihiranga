@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheeshamihiranga&label=Profile%20views&color=0e75b6&style=flat" alt="matheeshamihiranga" /> </p>
 
-- 🌱 I’m currently learning **Java**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MatheeshaMihiranga](https://github.com/MatheeshaMihiranga)
-
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **jayasundara.matheesha@gmail.com**
 
