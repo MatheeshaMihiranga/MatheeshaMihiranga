@@ -18,7 +18,7 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/matheesha-mihiranga-65b004320/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jayasundara.matheesha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/MatheeshaMihiranga" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -42,13 +42,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheeshamihiranga&show_icons=true&layout=compact&theme=radical" />
 </p>
 
----
-
-### 🧠 Quote of the Day
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-<p align="center">
-  💬 “Let’s build something amazing together!”
-</p>
